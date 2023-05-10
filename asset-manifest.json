@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/numanafzal-portfolio/static/css/main.5d7a9754.css",
+    "main.js": "/numanafzal-portfolio/static/js/main.b95a93ef.js",
+    "static/js/787.1ed0c42c.chunk.js": "/numanafzal-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/numanAvatar.png": "/numanafzal-portfolio/static/media/numanAvatar.637a85b757afc30ad3db.png",
+    "static/media/NTU.png": "/numanafzal-portfolio/static/media/NTU.1173fa2e046992f3ba18.png",
+    "static/media/mtm.png": "/numanafzal-portfolio/static/media/mtm.2fcdca4dcf721f937c63.png",
+    "static/media/facebook.png": "/numanafzal-portfolio/static/media/facebook.b6e81273db65400d0c21.png",
+    "static/media/hero-devices.svg": "/numanafzal-portfolio/static/media/hero-devices.ca82e97c349a897082b6268dd7f8d733.svg",
+    "index.html": "/numanafzal-portfolio/index.html",
+    "main.5d7a9754.css.map": "/numanafzal-portfolio/static/css/main.5d7a9754.css.map",
+    "main.b95a93ef.js.map": "/numanafzal-portfolio/static/js/main.b95a93ef.js.map",
+    "787.1ed0c42c.chunk.js.map": "/numanafzal-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d7a9754.css",
+    "static/js/main.b95a93ef.js"
+  ]
+}
