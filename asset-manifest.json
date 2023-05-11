@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/numanafzal-portfolio/static/css/main.f01ca5f0.css",
+    "main.css": "/numanafzal-portfolio/static/css/main.b6d48ed0.css",
     "main.js": "/numanafzal-portfolio/static/js/main.d828408b.js",
     "static/js/787.1ed0c42c.chunk.js": "/numanafzal-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/numanAvatar.png": "/numanafzal-portfolio/static/media/numanAvatar.637a85b757afc30ad3db.png",
@@ -16,12 +16,12 @@
     "static/media/mail2.svg": "/numanafzal-portfolio/static/media/mail2.d72e76166de71deaa32c84261bba6b09.svg",
     "static/media/user.svg": "/numanafzal-portfolio/static/media/user.37ad765ff1f292336236d8657df0aee0.svg",
     "static/media/mail.svg": "/numanafzal-portfolio/static/media/mail.ef89d94b8652952923261c755cd5627c.svg",
-    "main.f01ca5f0.css.map": "/numanafzal-portfolio/static/css/main.f01ca5f0.css.map",
+    "main.b6d48ed0.css.map": "/numanafzal-portfolio/static/css/main.b6d48ed0.css.map",
     "main.d828408b.js.map": "/numanafzal-portfolio/static/js/main.d828408b.js.map",
     "787.1ed0c42c.chunk.js.map": "/numanafzal-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f01ca5f0.css",
+    "static/css/main.b6d48ed0.css",
     "static/js/main.d828408b.js"
   ]
 }
